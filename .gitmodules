@@ -1,0 +1,3 @@
+[submodule "ej-submodule"]
+	path = ej-submodule
+	url = https://github.com/dmartosl/ej-submodule
